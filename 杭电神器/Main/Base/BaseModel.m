@@ -32,6 +32,7 @@
     return  self;
 }
 
+
 //设置属性映射
 //这里用于子类化,子类实现 {property名:字段名}  映射
 - (NSDictionary*)attributeMapDictionary{
@@ -73,7 +74,6 @@
         }
     
     }
-
     
 }
 
